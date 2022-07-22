@@ -5,5 +5,6 @@
   <p class="hb-p">page2 3일차</p>
   <p class="hb-p">page2 4일차</p>
   <p class="hb-p">page2 5일차</p>
+  <p class="hb-p">page2 6일차</p>
 <?php include "sub-footer.php" ?>
 
